@@ -4,3 +4,4 @@ first_name = input('Please tell me your first name: ')
 surname = input('And your surname is ')
 
 print('Hello ' + first_name + ' ' + surname)
+#print('Hello',first_name,surname)

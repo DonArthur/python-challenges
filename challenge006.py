@@ -1,6 +1,4 @@
 #ask how many pizza slices the user started with and ask how many they have eaten
-from ast import If
-
 
 total_slices = int(input('How many pizza slices? '))
 eaten_slices = int(input('How many have you eaten? '))
